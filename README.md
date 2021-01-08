@@ -1,2 +1,2 @@
 # second_kill
-详情见pdf
+电商秒杀系统 详情见pdf
